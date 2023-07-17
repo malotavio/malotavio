@@ -1,7 +1,7 @@
 
 <h1 style="text-align:center"><strong>✦ CHLO&nbsp;✦</strong></h1>
 
-<h1 style="text-align:center"><img alt="" src="https://pbs.twimg.com/media/F0kJMm-aEAA3g2r?format=jpg&amp;name=4096x4096" style="height:394px; width:700px" /></h1>
+<h1 style="text-align:center"><img alt="" src="https://pbs.twimg.com/media/F0kJKxNaIAEUtxg?format=jpg&amp;name=4096x4096" style="height:338px; width:600px" /></h1>
 
 <h3 style="text-align:center"><em><span style="font-size:16px">The realest mfka on this planet</span></em></h3>
 
@@ -54,11 +54,7 @@
 	<li><span style="font-size:16px">+ Unlisted</span></li>
 </ul>
 
-<p style="text-align:center"><span style="font-size:16px"><img alt="" src="https://pbs.twimg.com/media/F0kJNsdacAAOEel?format=jpg&amp;name=4096x4096" style="height:394px; width:700px" /></span></p>
-
-<p style="text-align:center"><a href="https://twitter.com/Heartbreak_Juan/status/1677882616228495361"><span style="font-size:16px">ART CREDIT</span></a></p>
-
 <hr />
 <p style="text-align:center"><span style="font-size:16px">Thanks for reading.</span></p>
 
-<p style="text-align:center"><span style="font-size:16px"><img alt="" src="https://pbs.twimg.com/media/F0kJPMQaYAEvibu?format=jpg&amp;name=4096x4096" style="width:600px" /></span></p>
+<p style="text-align:center"><span style="font-size:16px"><img alt="" src="https://pbs.twimg.com/media/F0kJMm-aEAA3g2r?format=jpg&amp;name=4096x4096" style="height:169px; width:300px" />&nbsp;<img alt="" src="https://pbs.twimg.com/media/F0kJNsdacAAOEel?format=jpg&amp;name=4096x4096" style="height:169px; width:300px" />&nbsp;&nbsp;<img alt="" src="https://pbs.twimg.com/media/F0kJPMQaYAEvibu?format=jpg&amp;name=4096x4096" style="height:169px; width:300px" /></span></p>
