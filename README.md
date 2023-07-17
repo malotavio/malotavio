@@ -23,7 +23,7 @@
 	<li><span style="font-size:16px">Feel free to interact with me, I&#39;m open to making new friends I&nbsp;dont bite.</span></li>
 </ul>
 
-<h2>✦&nbsp;<span style="font-size:16px">BYI</span></h2>
+<h2>✦&nbsp;<span style="font-size:16px">DNI</span></h2>
 
 <ul>
 	<li><span style="font-size:16px">TT/TD players</span></li>
