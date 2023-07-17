@@ -1,4 +1,3 @@
-
 <h1 style="text-align:center"><strong>✦ CHLO&nbsp;✦</strong></h1>
 
 <p style="text-align:center"><strong><img alt="" src="https://pbs.twimg.com/media/F0kJMm-aEAA3g2r?format=jpg&amp;name=4096x4096" style="height:281px; width:500px" /></strong></p>
@@ -31,6 +30,16 @@
 	<li><span style="font-size:16px">Sensitive people.</span></li>
 	<li><span style="font-size:16px">If you dislike any of my main interests.</span></li>
 	<li><span style="font-size:16px">I don&#39;t care what fandoms you&#39;re in as long as you aren&#39;t annoying or weird.</span></li>
+</ul>
+
+<h2>✦ <span style="font-size:16px">STATUSES</span></h2>
+
+<ul>
+	<li><span style="font-size:16px">ONLINE: I&#39;m currently active in the game and on tab.</span></li>
+	<li><span style="font-size:16px">LOOKING FOR CHAT: I&#39;m lonely please talk to me.&nbsp;(don&#39;t take that too srsly)</span></li>
+	<li><span style="font-size:16px">LOONG FOR RP: I barely have this as my status since I don&#39;t roleplay.</span></li>
+	<li><span style="font-size:16px">AWAY: I&#39;m offtab,&nbsp;I usually have this one so please talk to me through whispers if you&#39;d like to interact.</span></li>
+	<li><span style="font-size:16px">BUSY: Busy (duh),&nbsp;making a skin, or doing something else offtab, don&#39;t interact w/ me if I have this one, aside from friends</span></li>
 </ul>
 
 <h2>✦&nbsp;<span style="font-size:16px">INTERESTS</span></h2>
