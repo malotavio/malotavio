@@ -1,6 +1,6 @@
 <h1><strong>✦ CHLO&nbsp;✦</strong></h1>
 
-<p><span style="font-size:16px">wsg im chlo</span></p>
+<p><span style="font-size:16px">wsg im chlo, close friends may call me kaz</span></p>
 
 <p><span style="font-size:16px">any pronouns</span></p>
 
