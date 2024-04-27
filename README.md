@@ -1,7 +1,7 @@
-<p>malo</p>
-<p>any pronouns</p>
-<p>offtab 24/7 (unfortunately)</p>
-<p>&nbsp;</p>
-<p>satoran shipper (unfortunately)</p>
-<p>c+h OK eng/ind OK</p>
-<p>more info in carrd.</p>
+malo
+any pronouns
+offtab 24/7 (unfortunately)
+
+satoran shipper (unfortunately)
+c+h OK eng/ind OK
+more info in carrd.
